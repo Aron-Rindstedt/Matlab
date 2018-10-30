@@ -1,0 +1,22 @@
+* TODO Kanske lägga in en bild på sida 12 (innan T-junction) så att den inte ser så utdragen ut.
+* TODO Kanske flytta runt bilder så att bilder som talas om tidigare dyker upp tidigare
+* TODO Ask about how/how much to talk about CFL-conditions.
+* DONE ibland blir det väldigt tungläst. Bra med lite text mellan ekvationerna som beskriver utvecklingen med ord. 
+** DONE Ex 1 sid 6, efter definition 1. Beskriv med  ord hur man kommer från (11) till (12) till(13) och slutligen till (14).
+** DONE Ex 2 sid 7, efter eq (15): säg med ord vilka termer i (15)  som svarar mot vad i (11).
+** DONE Det finns fler liknande förtydliganden som skulle förenkla för en läsare.
+* DONE Lägg också till referenser, så att en läsare kan hitta precis hur operatorerna du använder ser ut, och  vem som "uppfann" dom.
+* DONE Från texten är det svårt att förstår precis vilket problem som löses i de numeriska experimenten. Jag gissar att du har löst ekv 11 med ett F så att lösningen blir f? Stmmer det? Lägg till så det blir tydligt vad som löses. 
+* DONE Försöka skriv tydligare och mer om de olika resultaten. Vad är förväntat, vad gäller noggrannhet och stabilitet? Vad är förvånande? Vad ska man notera i de olika figurerna. Alla figurer man har med skall referas till i texten!
+* DONE Continuous energy method section
+* DONE alpha. Kanske bättre att plocka ut alpha ur definition 1? Kanske istället formulera resultatet: att för varje p så finns ett alpha>0 sådant att....., och referera till [4] för beviset. Då kan du också lägga till något i lite text där detta resultat används för att få fram energiuppskattningen (första gången i 3.1.2 och senera också)
+* DONE I definition 2  införs H och M och dessutom ett alpha. Du behöver förklara lite mer: M och H är operatorer, H är symmetrisk,  positivt definit och eqvivalent med hI operatorn. Ngt mer om alpha behöver också sägas.
+* DONE Explain what SBP and SAT are
+* DONE Transpose tables
+* DONE Interpret results
+** What they are and what that means
+* DONE Explain acronyms
+* DONE English portion should be understandable to someone who knows FDM but not SBP-SAT
+* Old
+** Approximate start-values for mod. eq.??
+** CFL-tests??
